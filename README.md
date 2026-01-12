@@ -1,6 +1,6 @@
-# Cakrawala (Yoga Practice Video App)
+# Video Content Functionality Showcase (React Native)
 
-An **Expo React Native** app for browsing a small library of yoga practice sessions and watching them in-app.
+An React Native app for browsing a library of yoga practice video sessions and watching them in-app, on request.
 
 ### What the app does
 
@@ -34,3 +34,27 @@ An **Expo React Native** app for browsing a small library of yoga practice sessi
 - **Practice flow screens**: `screens/Practice/*`
 - **Video player**: `components/Video/VideoPlayer.js`
 
+
+Here’s how the app looks:
+
+PracticeHomeScreen:
+
+
+![Screenshot 1](assets/PracticeHomeScreen.png)
+
+SessionTypeScreen:
+
+
+![Screenshot 2](assets/SessionTypeScreen.png)
+
+
+SessionDetailsScreen:
+
+
+![Screenshot 3](assets/SessionDetailsScreen.png)
+
+
+VideoPlayer:
+
+
+![Screenshot 4](assets/VideoPlayer.png)
