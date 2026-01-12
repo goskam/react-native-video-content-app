@@ -42,6 +42,7 @@ PracticeHomeScreen:
 
 ![Screenshot 1](assets/PracticeHomeScreen.png)
 
+
 SessionTypeScreen:
 
 
