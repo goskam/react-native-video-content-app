@@ -35,6 +35,7 @@ An React Native app for browsing a library of yoga practice video sessions and w
 - **Video player**: `components/Video/VideoPlayer.js`
 
 
+
 Here’s how the app looks:
 
 PracticeHomeScreen:
